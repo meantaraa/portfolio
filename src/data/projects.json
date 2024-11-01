@@ -1,24 +1,24 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Responsive News Site",
+    "imageSrc": "projects/news-site.png",
+    "description": "A responsive news website built to learn modern web development techniques.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Keeper App",
+    "imageSrc": "projects/keeper-app.png",
+    "description": "A notes and to-do keeper app inspired by Google Keep.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Expense Tracker",
+    "imageSrc": "projects/expense-tracker.png",
+    "description": "A finance tracking app that allows users to manage and track their expenses.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
